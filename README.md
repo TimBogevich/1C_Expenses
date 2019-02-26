@@ -1,5 +1,5 @@
 # 1C_Expenses
-Epenses from 1C to DWH
+Expenses from 1C to DWH
 This code loads expenses from 1C for last N days to MS SQL
 
 Python 2.7, Windows
